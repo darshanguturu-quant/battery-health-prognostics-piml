@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Data and large artifacts
+/NASA/
+/NASA_raw/
+*.zip
+*.mat
+*.db
+
+# macOS & Windows metadata
+.DS_Store
+Thumbs.db
